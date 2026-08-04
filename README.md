@@ -2,7 +2,7 @@
 
 Dotted thought-orb loading indicators for AI & agent UIs — 9 animated states, Vue 3, Canvas 2D.
 
-[Live demo](https://cxk1993.github.io/thinking-orb-vue/) · [Repository](https://github.com/cxk1993/thinking-orb-vue)
+· [Repository](https://github.com/cxk1993/thinking-orb-vue)
 
 ## Install
 
